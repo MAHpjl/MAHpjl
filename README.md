@@ -1,6 +1,6 @@
 - Meu Nome É Mariane Silva.
 - Estou Estudando Na Alura.
-- Uso Javascript 
+- Utilizo Javascript.
 - *Você Pode Entrar Em Contato Comigo*
 - • 00001094602875sp@aluno.educacao.sp.gov.br
 - @MAHpjl.
